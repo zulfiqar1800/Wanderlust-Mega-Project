@@ -18,7 +18,7 @@ spec:
     spec:
       containers:
         - name: backend
-          image: rasheed1800/wanderlust-backend:7
+          image: rasheed1800/wanderlust-backend:8
           ports:
             - containerPort: 8080
 ---
