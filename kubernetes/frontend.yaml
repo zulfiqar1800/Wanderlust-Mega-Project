@@ -18,7 +18,7 @@ spec:
     spec:
       containers:
         - name: frontend
-          image: rasheed1800/wanderlust-frontend:8
+          image: rasheed1800/wanderlust-frontend:9
           ports:
             - containerPort: 5173
 ---
