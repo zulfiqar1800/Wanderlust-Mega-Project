@@ -79,8 +79,8 @@
         </analysisExceptions>
     </scanInfo>
     <projectInfo>
-        <name>Wanderlust-CI #6</name>
-        <reportDate>2026-06-28T15:57:19.412822927Z</reportDate>
+        <name>Wanderlust-CI #7</name>
+        <reportDate>2026-06-28T18:00:14.461147629Z</reportDate>
         <credits>This product uses the NVD API but is not endorsed or certified by the NVD. This report contains data retrieved from the National Vulnerability Database: https://nvd.nist.gov, Github Advisory Database (via NPM Audit API): https://github.com/advisories/, and the RetireJS community.</credits>
     </projectInfo>
     <dependencies>
